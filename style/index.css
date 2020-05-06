@@ -1,0 +1,96 @@
+/* .row {
+  margin-top: 30px;
+  height: 495px;
+  margin-bottom: 30px;
+}
+
+.row .context1 {
+  background-color: cornflowerblue;
+}
+
+.row .context2 {
+  background-color: coral;
+} */
+
+/* .s_car_ui {
+  background-color: blueviolet;
+  height: 100%;
+  width: 33.43%;
+} */
+
+#myCarousel-indicators li {
+  border-radius: 50%;
+}
+
+.carousel-item {
+  padding: 10px 20px;
+  width: 100%;
+}
+
+.d-block {
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+.progress {
+  margin: 25px;
+}
+
+/* #leaderboard,
+#summary {
+  margin-top: 30px; 
+  background-color: aquamarine;
+  margin-bottom: 30px;
+} */
+
+.dwnld_info_bttn_web:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.spark_description {
+  padding-top: 30px;
+  /* background-color: coral; */
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.spark_description h1 {
+  font-family: 'MontserratSemiBold', sans-serif;
+  font-weight: bold;
+  color: #188ba8;
+}
+
+.s_leaderbord {
+  /* background-color: darkturquoise; */
+  /* height: 600px; */
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.img_leadeerboard {
+  width: 100%;
+}
+
+.dis_learboard {
+  vertical-align: middle;
+}
+
+/* hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 5px;
+} */
+
+.carousel-caption, .footer_spark {
+  font-family: 'MontserratsemiBold', sans-serif;
+  line-height: 1.75;
+  font-size: 1.15em;
+}
+
+.content {
+  font-family: 'Montserrat', sans-serif;
+}
